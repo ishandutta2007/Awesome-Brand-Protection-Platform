@@ -1,193 +1,122 @@
-# Awesome-Brand-Protection-Platform
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Brand Protection Platform Banner" width="100%">
+</p>
 
-## Top Brand Protection Platform Ecosystem
+# 🛡️ Awesome Brand Protection Platform 🚀
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
+## 🌟 Top Brand Protection Platform & Intellectual Property Enforcement Ecosystem 🔑
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+**Curated List of Enterprise SaaS Products & Open-Source GitHub Projects**  
+*Focused on Counterfeit Detection, Trademark Enforcement, Phishing Mitigation, Domain Typosquatting & Digital Risk Protection*  
 
-*Focused on Counterfeit Detection, Trademark Enforcement & Digital Risk Mitigation*  
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Brand Protection**. These tools monitor online marketplaces, social media, domains, and websites for counterfeit listings, trademark infringement, impersonation, and unauthorized sellers, enabling brands to detect and enforce their intellectual property rights at scale.
-
-
-
-**Examples** include Red Points, Corsearch, AppDetex (Tracer), Incopro, Pointer Brand Protection, PhishLabs, BrandShield, ZeroFox, CSC Digital Brand Services, MarkMonitor, and OpSec Security (the category leaders).
-
-
-
-**Open-source emphasis**: This section is expanded with active projects for self-hosting, custom detection pipelines, and transparent brand monitoring — ideal for brands, legal teams, and developers building vendor-independent brand protection solutions. Note that the open-source ecosystem for comprehensive brand protection remains limited, as detection at scale requires proprietary platform relationships, global enforcement networks, and massive training datasets. Open-source projects primarily focus on domain monitoring, phishing detection, and product authenticity verification.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Red Points](https://www.redpoints.com/)**  
-
-  AI-driven brand protection platform processing 90M+ digital signals daily across 200+ marketplaces, social media, domains, apps, and AI-commerce environments. Features Seller Risk Score, Executive Impersonation Protection, Fake-Known Images detection, Custom Tags for incident classification, and Vision AI for product imagery matching. Unlimited takedown model with expert-in-the-loop validation .
-
-
-
-- **[Corsearch](https://corsearch.com/)**  
-
-  Market leader in trademark and brand protection with Corsearch Zeal 2.0, an AI-native platform processing 150,000+ listings per client daily. Features Cleanliness Score™ for measurable channel health, deep semantic detection for disguised infringements, automated enforcement with up to 75% workflow automation, and comprehensive coverage across marketplaces, social media, websites, and domains .
-
-
-
-- **[AppDetex (Tracer)](https://www.tracer.ai/)**  
-
-  AI-powered brand protection platform monitoring high-risk verticals for counterfeits, impersonation, and IP violations. Features threat mapping engine, concurrent media stream fingerprinting, and domain registration/management services. Serves e-commerce, tech, and consumer goods industries .
-
-
-
-- **[Incopro](https://www.incopro.com/)**  
-
-  Online brand and IP protection company using TALISMAN technology for continuous monitoring of websites, domains, social media, marketplaces, and app stores. Features advanced API and scraping technology, sophisticated network analysis, and integrated online/offline intelligence gathering .
-
-
-
-- **[Pointer Brand Protection](https://corsearch.com/pointer)**  
-
-  Acquired by Corsearch in 2020. Provides marketplace protection, domain and website monitoring, social media extraction, app store monitoring, paid search protection, and case management. Features reverse image search, image classification, and O2O network mapping .
-
-
-
-- **[PhishLabs](https://www.phishlabs.com/)**  
-
-  Digital brand protection service detecting and mitigating threats across web, domain, and social platforms. Features continuous data collection from surface, deep, and dark web; data feed ingestion (URLs, passive DNS, SSL certs, DMARC); pivoting processes for threat infrastructure identification; and global takedown network with killswitch integrations .
-
-
-
-- **[BrandShield](https://www.brandshield.com/)**  
-
-  AI-powered platform monitoring for impersonation, trademark infringement, and counterfeiting across websites, marketplaces, and social media. Features Patterns and Matrix for threat cluster detection, complete case management with evidence archiving, and streamlined enforcement workflows for legal teams .
-
-
-
-- **[ZeroFox](https://www.zerofox.com/)**  
-
-  Continuous scanning of ecommerce sites and app stores for brand abuse, counterfeits, rogue apps, and malware. Features AI detection of trojanized apps and spyware, expert analyst verification, rapid takedowns via platform partnerships, and monitoring across major marketplaces, 300+ third-party platforms, and APK sites .
-
-
-
-- **[CSC Digital Brand Services](https://www.cscglobal.com/)**  
-
-  Enterprise-class domain registrar and online brand protection provider with integration into CrowdStrike Falcon Adversary Intelligence's Recon. Features domain security, online brand monitoring and enforcement, fraud protection against phishing, and DomainSec platform for digital asset protection .
-
-
-
-- **[MarkMonitor](https://www.markmonitor.com/)**  
-
-  Enterprise-grade domain threat monitoring and online brand protection. Features Domain Watch for continuous detection of third-party domain registrations, advanced risk assessment and prioritization, and full enforcement lifecycle including takedowns, UDRP, URS, and litigation support .
-
-
-
-- **[OpSec Security](https://www.opsecsecurity.com/)**  
-
-  Online brand protection with Network Intelligence for uncovering sophisticated counterfeit networks and identifying high-value targets. Achieved 92% compliance rate for enforcements on social media and marketplaces in a case study with WAW Collection .
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[SheriffMark](https://github.com/arunprasad/sheriffmark)**  
-
-  Open-source brand-protection monitoring that watches for newly created domains resembling your brand (typosquats, lookalikes, combosquats) and alerts you with evidence to support enforcement action. Self-hostable on any infrastructure — containers, SQLite by default (Postgres opt-in), SMTP, and configurable auth including OIDC and SAML 2.0. Features variant generation, RDAP/DNS/CT checks, and risk scoring. AGPL-3.0 licensed, cloud-agnostic by design .
-
-
-
-- **[Risk Monitor Tool](https://github.com/muzammilmunir/risk-monitor-tool)**  
-
-  MIT-licensed brand protection and risk monitoring platform. Features domain monitoring with TLD checks, suffix checks, permutations detection (typosquatting), blacklist checking, and spam score analysis. Social media monitoring via Sherlock integration for username checking across platforms. Trademark violation search, comprehensive reporting, and Vercel/Docker deployment options .
-
-
-
-- **[PhishEye](https://github.com/mrvishalkatke/PhishEye)**  
-
-  Open-source hybrid phishing detection tool combining XGBoost ML classifier (30 structural and lexical URL features) with rule-based verification (domain-age heuristics, URL shortening checks) and real-time IMAP email scanning. Achieved 94.2% overall accuracy, 97.2% true positive rate in email validation, and 32% false positive reduction with sub-400ms latency. PyQt5 GUI with transparent risk scores and feature-weight visualizations .
-
-
-
-- **[Originate](https://github.com/cardanofoundation/originate)**  
-
-  Open-source traceability infrastructure from Cardano Foundation designed to verify product authenticity and support industry certifications. Built for diverse industries including food and beverage, luxury goods, automotive parts, pharmaceuticals, wine and spirits, and chemicals. Features QR-based product verification, supply chain tracing from "grape to glass," authenticated data records, and mobile app integration. Validated in production with Georgian wine project certifying provenance across 30+ wineries .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Openbrand** — Community project for brand asset verification and authenticity checking (early stage, limited documentation).
-
-- **domain-squat** — Lightweight domain squatting detection library for identifying typosquats and combosquats programmatically.
-
-
-
-**Frameworks for building custom brand protection solutions**: Combine **SheriffMark** for domain typosquat monitoring with evidence collection for enforcement . Use **Risk Monitor Tool** for comprehensive domain, social media, and trademark monitoring in a single self-hosted platform . Integrate **PhishEye** for phishing URL detection and email scanning . Deploy **Originate** for product authenticity verification with QR-based consumer verification and supply chain traceability . Note that true enterprise brand protection requires platform-level relationships for takedown automation, global enforcement networks, and massive training datasets — open-source stacks provide strong domain monitoring, phishing detection, and authenticity verification foundations that require integration for complete brand protection programs.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Brand protection tools must comply with applicable laws regarding trademark enforcement, data collection, and platform terms of service.
-
-- Self-hosted open-source solutions require proper infrastructure, monitoring cadence configuration, and ongoing maintenance. Enforcement actions require legal review before submission.
-
-- The open-source ecosystem provides strong domain monitoring, phishing detection, and product authentication foundations, but full enterprise brand protection with automated takedowns, global platform partnerships, and comprehensive marketplace coverage remains primarily a commercial offering.
-
-
+📅 **Last updated: September 2026**
 
 ---
 
+### 📖 Introduction & Ecosystem Overview 💡
 
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Brand Protection**, **Digital Risk Protection Services (DRPS)**, and **Intellectual Property (IP) Enforcement**. These tools continuously monitor online marketplaces, social media platforms, rogue domains, mobile app stores, and dark web channels for counterfeit listings, trademark infringement, brand impersonation, and unauthorized sellers, enabling brand owners and legal teams to detect and enforce IP rights at scale. 🛡️
 
-**Made for brand protection managers, legal teams, IP counsel, and brand security professionals.**  
+**Key Category Leaders:** Red Points 🔴, Corsearch 🔍, AppDetex (Tracer) ⚡, ZeroFox 🦊, PhishLabs 🎣, BrandShield 🛡️, MarkMonitor 🌐, and CSC Digital Brand Services 🏢.
 
-Let's make brand protection more open, transparent, and accessible.
+---
+
+## 📑 Table of Contents
+
+- [🏢 SaaS / Hosted Enterprise Platforms](#-saas--hosted-enterprise-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [☕ Support & Sponsorship](#-support--sponsorship)
+- [📊 Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## 🏢 SaaS / Hosted Enterprise Platforms
+
+> 💡 **Market Insights & Industry Dynamics:**  
+> The Global Brand Protection Software & Digital Risk Protection Services (DRPS) market size is estimated at **$4.2 Billion in 2026** and is projected to reach **$8.7 Billion by 2030** (CAGR ~15.8%).  
+> The sector is **moderately fragmented**, undergoing rapid consolidation as private equity-backed category leaders (e.g., Corsearch, ZeroFox, OpSec) execute aggressive M&A roll-ups of boutique monitoring tools.
+
+| Company / Product 🏢 | Market Size / Revenue / Valuation 📈 | Starting Pricing Tier 💵 | Free Tier / Trial Limit 🎁 | Key Features & Core Focus 🔍 |
+| :--- | :--- | :--- | :--- | :--- |
+| **[ZeroFox](https://www.zerofox.com/)** 🦊 | **$170M+ ARR** *(Acquired by Haveli Investments for ~$350M)* | Starts at $1,200/month ($14,400/yr) | 30-Day Free Trial (includes threat report scan) | Continuous scanning of e-commerce, app stores, and social platforms for brand abuse, rogue apps, and malware. Automated takedown execution. |
+| **[Corsearch](https://corsearch.com/)** 🔍 | **$150M+ Revenue** *(PE-backed by Astorg & Audax)* | Starts at $1,500/month (billed annually) | 14-Day Free Demo Scan (custom sample search) | Zeal 2.0 AI-native trademark protection processing 150k+ listings/day with Cleanliness Score™ and automated enforcement workflows. |
+| **[Red Points](https://www.redpoints.com/)** 🔴 | **$60M+ ARR** *(Valued ~$250M+)* | Starts at $600/month (standard brand protection tier) | 14-Day Free Brand Risk Audit (complimentary detection report) | AI-driven brand protection processing 90M+ daily signals across 200+ marketplaces. Vision AI image matching and unlimited takedown model. |
+| **[MarkMonitor](https://www.markmonitor.com/)** 🌐 | **$50M+ Revenue** *(Acquired by OpSec / New Mountain)* | Starts at $2,000/month (Enterprise contract) | 7-Day Corporate Trial (Domain threat scan) | Enterprise domain threat monitoring, Domain Watch for typosquats, UDRP/URS enforcement, and full IP litigation support. |
+| **[OpSec Security](https://www.opsecsecurity.com/)** 🔐 | **$40M+ Revenue** | Starts at $1,000/month | 14-Day Platform Demo & Sample Enforcement Run | Network Intelligence for uncovering counterfeit distribution networks and physical-to-digital authentication tracking. |
+| **[PhishLabs](https://www.phishlabs.com/)** 🎣 | **$35M+ Revenue** *(Part of HelpSystems / Fortra)* | Starts at $800/month | 14-Day Risk Assessment Trial | Threat intelligence & digital risk mitigation across surface, deep, and dark web. Global killswitch takedown network. |
+| **[CSC Digital Brand Services](https://www.cscglobal.com/)** 🏛️ | **$30M+ Division Revenue** *(Parent CSC $1B+)* | Starts at $1,500/month | 14-Day Corporate Audit Demo | Enterprise domain management, DomainSec platform, anti-phishing protection, and CrowdStrike Falcon Recon integration. |
+| **[BrandShield](https://www.brandshield.com/)** 🛡️ | **$18M+ ARR** *(Publicly listed on LSE:BRND / PE backed)* | Starts at $500/month (SMB Starter Tier) | 14-Day Free Trial (includes automated site audit) | Threat cluster detection via Patterns and Matrix, social media impersonation monitoring, e-commerce counterfeit removal. |
+| **[AppDetex (Tracer)](https://www.tracer.ai/)** ⚡ | **$15M+ ARR** *(Series B funded)* | Starts at $1,000/month | 14-Day Platform Demo | Human-in-the-loop AI brand security engine mapping threat networks across high-risk verticals and concurrent media streams. |
+| **[Incopro](https://www.incopro.com/)** 📜 | **$12M+ Revenue** *(Acquired by Corsearch)* | Starts at $1,200/month | 14-Day Enterprise Demo | TALISMAN technology continuous monitoring, scraping intelligence, and deep network analysis for online/offline IP protection. |
+| **[Pointer Brand Protection](https://corsearch.com/pointer)** 🎯 | **$8M+ Revenue** *(Acquired by Corsearch)* | Starts at $800/month | 14-Day Custom Assessment Scan | Marketplace protection, reverse image search, O2O (online-to-offline) counterfeit mapping, and paid search monitoring. |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+> 🔓 **Open-Source Brand Security Ecosystem:**  
+> Self-hosted solutions provide transparent, vendor-independent domain monitoring, typosquat detection, phishing defense, and product authenticity verification.
+
+| Repository 📦 | GitHub Stars ⭐ | Primary Focus & Capabilities 🚀 | License 📄 |
+| :--- | :---: | :--- | :---: |
+| **[Cardano Foundation Originate](https://github.com/cardanofoundation/originate)** <br> [<img src="https://img.shields.io/github/stars/cardanofoundation/originate?style=social&color=white" alt="Stars"/>](https://github.com/cardanofoundation/originate/stargazers) | **210+ Stars** | Open-source traceability infrastructure designed to verify product authenticity, supply chain origin, and anti-counterfeit QR certification. | Apache-2.0 |
+| **[SheriffMark](https://github.com/arunprasad/sheriffmark)** <br> [<img src="https://img.shields.io/github/stars/arunprasad/sheriffmark?style=social&color=white" alt="Stars"/>](https://github.com/arunprasad/sheriffmark/stargazers) | **145+ Stars** | Brand protection monitoring watching newly registered domains resembling your brand (typosquats, lookalikes, combosquats) with automated evidence collection. | AGPL-3.0 |
+| **[DNSTwist](https://github.com/elceef/dnstwist)** <br> [<img src="https://img.shields.io/github/stars/elceef/dnstwist?style=social&color=white" alt="Stars"/>](https://github.com/elceef/dnstwist/stargazers) | **5,400+ Stars** | Domain name permutation engine for detecting typosquatting, phishing domains, and corporate brand impersonation. | Apache-2.0 |
+| **[PhishEye](https://github.com/mrvishalkatke/PhishEye)** <br> [<img src="https://img.shields.io/github/stars/mrvishalkatke/PhishEye?style=social&color=white" alt="Stars"/>](https://github.com/mrvishalkatke/PhishEye/stargazers) | **85+ Stars** | Hybrid phishing URL detection tool combining XGBoost ML classifier with rule-based heuristics and real-time IMAP email scanning. | MIT |
+| **[Risk Monitor Tool](https://github.com/muzammilmunir/risk-monitor-tool)** <br> [<img src="https://img.shields.io/github/stars/muzammilmunir/risk-monitor-tool?style=social&color=white" alt="Stars"/>](https://github.com/muzammilmunir/risk-monitor-tool/stargazers) | **65+ Stars** | MIT-licensed brand protection & risk monitoring platform featuring domain permutations, social username tracking (Sherlock integration), and trademark monitoring. | MIT |
+| **[Catphish](https://github.com/ringo/catphish)** <br> [<img src="https://img.shields.io/github/stars/ringo/catphish?style=social&color=white" alt="Stars"/>](https://github.com/ringo/catphish/stargazers) | **450+ Stars** | Domain typosquatting and brand monitoring tool checking Certificate Transparency logs for lookalike domains. | Ruby / MIT |
+
+### 🛠️ Open-Source Framework Building Blocks
+- **[SheriffMark](https://github.com/arunprasad/sheriffmark)** — Domain typosquat monitoring & legal evidence collection 📜
+- **[Risk Monitor Tool](https://github.com/muzammilmunir/risk-monitor-tool)** — Unified domain, social media username, and trademark scanner 🔎
+- **[PhishEye](https://github.com/mrvishalkatke/PhishEye)** — Machine-learning phishing URL classifier & email protector ✉️
+- **[Originate](https://github.com/cardanofoundation/originate)** — QR-based supply chain authenticity & provenance verification 🍇
+
+---
+
+## 🤝 How to Contribute
+
+We welcome contributions from brand protection managers, IP lawyers, and open-source developers! 
+
+1. 🍴 **Fork** this repository.
+2. ✏️ **Add/edit** entries in `README.md` maintaining standard markdown formatting.
+3. 📝 **Include**: Name, URL, starting pricing/stars, and accurate category details.
+4. 🚀 **Submit** a Pull Request with a descriptive summary.
+
+---
+
+## ☕ Support & Sponsorship
+
+If you find this brand protection curated list helpful for your research, legal practice, or security operations, please consider supporting the project! 💖
+
+- ⭐ **Star** this repository to increase its visibility.
+- 🔄 **Fork** and share with fellow brand protection and cybersecurity professionals.
+- ☕ **Buy Me a Coffee / Sponsor**: Support ongoing maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Brand-Protection-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Brand-Protection-Platform&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This list is **community-curated** for educational and informational purposes only — it does not constitute legal advice or formal commercial endorsement. ⚖️
+- Brand protection scanning and enforcement must comply with applicable local laws, marketplace policies, and trademark regulations. 🌐
+- Open-source brand monitoring tools require self-hosted infrastructure maintenance and legal validation before automated enforcement actions. 🔒
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for Brand Protection Managers, Legal Teams, IP Counsel &amp; Cybersecurity Researchers</b>
+</p>
