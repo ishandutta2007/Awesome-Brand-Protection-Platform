@@ -65,7 +65,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 > 🔓 **Open-Source Brand Security Ecosystem:**  
 > Self-hosted solutions provide transparent, vendor-independent domain monitoring, typosquat detection, phishing defense, and product authenticity verification.
 
-| Repository 📦 | GitHub Stars ⭐ | Primary Focus & Capabilities 🚀 | License 📄 |
+| Repository 📦 | GitHub_Stars ⭐ | Primary Focus & Capabilities 🚀 | License 📄 |
 | :--- | :---: | :--- | :---: |
 | **[Cardano Foundation Originate](https://github.com/cardanofoundation/originate)** <br> [<img src="https://img.shields.io/github/stars/cardanofoundation/originate?style=social&color=white" alt="Stars"/>](https://github.com/cardanofoundation/originate/stargazers) | **210+ Stars** | Open-source traceability infrastructure designed to verify product authenticity, supply chain origin, and anti-counterfeit QR certification. | Apache-2.0 |
 | **[SheriffMark](https://github.com/arunprasad/sheriffmark)** <br> [<img src="https://img.shields.io/github/stars/arunprasad/sheriffmark?style=social&color=white" alt="Stars"/>](https://github.com/arunprasad/sheriffmark/stargazers) | **145+ Stars** | Brand protection monitoring watching newly registered domains resembling your brand (typosquats, lookalikes, combosquats) with automated evidence collection. | AGPL-3.0 |
